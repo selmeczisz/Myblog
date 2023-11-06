@@ -1,0 +1,23 @@
+.active{
+    background-color: rgba(163, 189, 237,0.5);
+    border-radius: 20px;
+}
+
+.createBlog{
+    max-width: 800px;
+    margin: 0 auto ;
+}
+a{
+    text-decoration: none!important;
+}
+.errMsg{
+    color:red;
+}
+.app{
+    margin-top: 69px;
+}
+
+
+.editor{
+    min-height: 300px;
+}
